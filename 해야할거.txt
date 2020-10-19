@@ -1,0 +1,13 @@
+
+EventGameApp-Redux
+ㄴreduxapp
+ㄴdjango
+
+git init 
+
+django 백엔드 init
+
+
+mysite\settings.py 가서 
+            INSTALLED_APPS 
+            DATABASES
